@@ -1,0 +1,12 @@
+setup.py
+listenup.egg-info/PKG-INFO
+listenup.egg-info/SOURCES.txt
+listenup.egg-info/dependency_links.txt
+listenup.egg-info/top_level.txt
+python/__init__.py
+python/solution/__init__.py
+python/solution/api.py
+services/__init__.py
+services/friends.py
+services/plays.py
+services/tracks.py
